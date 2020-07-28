@@ -17,21 +17,15 @@ Yes you can! This website is not for everyone; its not for data scientists (unle
 
 {{</ faq >}}
 
-{{< faq "Why is Algorithm X / Tool X/ Service X not included?" >}}
-
-Mostly because it is pretty new, or because we think the AWS docs and other resources can guide you well to do API-only calls to pretrained models (think Polly / Transcribe etc.)
-
-{{</ faq >}}
-
 {{< faq "Can I contribute?" >}}
 
-Absolutely! This is mostly open for Internal Amazon employees to contribute. We are determining ways to scale the contributions from all of you. We will post more guidance on that here. Until then, reach out to us using the [Contact](../contact) page.
+Absolutely! This is mostly open for Internal Amazon employees to contribute. We are determining ways to scale the contributions from all of you. We will post more guidance on that here. Until then, reach out to us internally, for Amazonians.
 
 {{</ faq >}}
 
 {{< faq "Is there any documentation on how to contribute?" >}}
 
-All documentation on how to contribute is available in the corresponding github repository: (easy-ml-pocs](https://github.com/w601sxs/easy-ml-pocs) for this website.
+All documentation on how to contribute is available in the corresponding github repository [easy-ml-pocs](https://github.com/aws-samples/easy-ml-pocs) for this website.
 
 {{</ faq >}}
 
