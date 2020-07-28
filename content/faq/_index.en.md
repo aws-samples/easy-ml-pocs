@@ -29,8 +29,8 @@ All documentation on how to contribute is available in the corresponding github 
 
 {{</ faq >}}
 
-{{< faq "Is this free to use? What do you need from us?" >}}
+{{< faq "Is this free to use?" >}}
 
-Yes! If you use this for building your ML PoC, please use the contact us link to write to us about it. So far, this the only way to know if you have found this useful (pretty much.)
+Yes! This tool is free, and you only pay for what you use with services on AWS.
 
 {{</ faq >}}
