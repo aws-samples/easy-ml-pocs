@@ -83,10 +83,6 @@ name = "Faq"
 url = "faq"
 weight = 9
 
-[[menu.main]]
-name = "contact"
-url = "contact"
-weight = 8
 
 # Code menu
 [[menu.main]]
