@@ -1,4 +1,4 @@
-# easy-ml-pocs 
+# Easy ML PoCs
 _Easy Machine Learning Proof of Concepts_
 Easy ML PoCs is a website/tool for use by people who need help navigating the AI/ML stack on AWS for their custom use cases. Customers who typically find it difficult to
 
