@@ -80,7 +80,7 @@ link = "#"
 ################################# navigation ################################
 [[menu.main]]
 name = "Faq"
-url = "faq"
+url = "faq/"
 weight = 9
 
 
@@ -93,26 +93,26 @@ hasChildren = true
   [[menu.main]]
   parent="code"
   name="Preprocessing"
-  url="preprocessing"
+  url="preprocessing/"
   weight=1
 
   [[menu.main]]
   parent="code"
   name="Training"
-  url="training"
+  url="training/"
   weight=2
 
   [[menu.main]]
   parent="code"
   name="Inference"
-  url="inference"
+  url="inference/"
   weight=3  
 
 # Code menu
 [[menu.main]]
 weight=6
 name = "Use cases"
-url="usecases"
+url="usecases/"
 hasChildren = false
 
 
