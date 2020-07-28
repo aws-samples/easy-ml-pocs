@@ -138,12 +138,12 @@ placeholder = "Search for code snippets and walkthroughs ..."
 # call to action
 [Languages.en.params.cta]
 enable = true
-title = "Didn't find an answer to your question?"
-description = "Contribute a use case or contact us for help."
+title = "Need to get started with your project?"
+description = "Click the button below to launch a Cloudformation stack with a SageMaker Notebook instance and an S3 bucket"
 [Languages.en.params.cta.button]
 enable = true
-label = "contact us"
-link = "contact"
+label = "Launch Stack"
+link = "https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=easymlpocstack&templateURL=https://easy-ml-pocs.s3.amazonaws.com/notebook-s3-cfn.yaml"
 
 
 
