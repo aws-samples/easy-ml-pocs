@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://add2notebook.d11arstd4fhlv6.amplifyapp.com/"
+baseURL = "https://www.easymlpocs.com/"
 # theme
 theme = "dot"
 # site title
