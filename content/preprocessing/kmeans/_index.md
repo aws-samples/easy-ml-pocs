@@ -1,5 +1,5 @@
 ---
-title: "Kmeans preprocessing"
+title: "SageMaker Kmeans preprocessing"
 date: 2020-03-02T17:46:34-05:00
 draft: false
 algo: [kmeans]
