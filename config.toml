@@ -5,6 +5,7 @@ baseURL = "https://www.easymlpocs.com"
 theme = "dot"
 # site title
 title = "Easy ML PoCs"
+googleAnalytics = "UA-174271899-1"
 
 [related]
 	threshold = 1
