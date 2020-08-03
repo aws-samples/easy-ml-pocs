@@ -2,6 +2,11 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}">
   {{ partial "head.html" . }}
 <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NVVH2N8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
   {{ if .IsHome }}
   {{ "<!-- header -->" | safeHTML }}
   <header class="hero-section overlay bg-cover banner" data-background="{{ .Site.Params.banner.bg_image | absURL }}">
